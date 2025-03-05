@@ -29,8 +29,7 @@ Hey, Netology
 - Предоставьте ответ в виде ссылки на https://hub.docker.com/<username_repo>/custom-nginx/general .
 
 ##Решение 1 
-https://hub.docker.com/repository/docker/chika1703/custom-nginx/tags/1.0.0/sha256-f3ad6cb7fd60f6743266bfb2fa37b770895217d4019436186ca871cfed13e65b
-![image 1](https://hub.docker.com/repository/docker/chika1703/custom-nginx/tags/1.0.0/sha256-f3ad6cb7fd60f6743266bfb2fa37b770895217d4019436186ca871cfed13e65b)
+[image 1](https://hub.docker.com/repository/docker/chika1703/custom-nginx/tags/1.0.0/sha256-f3ad6cb7fd60f6743266bfb2fa37b770895217d4019436186ca871cfed13e65b)
 
 ## Задача 2
 1. Запустите ваш образ custom-nginx:1.0.0 командой docker run в соответвии с требованиями:
