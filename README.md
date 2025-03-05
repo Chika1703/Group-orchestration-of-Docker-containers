@@ -148,6 +148,7 @@ services:
 ![image 5.2](png/photo_2_2025-03-05_23-15-21.jpg)
 ![image 5.3](png/photo_3_2025-03-05_23-15-21.jpg)
 ![image 5.4](png/photo_4_2025-03-05_23-15-21.jpg)
+[compose.yaml](compose2.yaml)
 
 7:Docker Compose обнаружил "осиротевший" контейнер task5-portainer-1, который ранее был частью проекта (compose.yaml), но теперь отсутствует в docker-compose.yaml.
 Это значит, что portainer больше не управляется текущим docker-compose.yaml, но контейнер продолжает работать.
